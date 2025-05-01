@@ -24,6 +24,7 @@ To run this project, you will need to add the following environment variables to
 In frontend :-
 
 VITE_BACKEND_URL = 'http://localhost:4000'
+
 VITE_RAZORPAY_KEY_ID="demo_razorpay_key"
 
 In Backend :-
