@@ -7,6 +7,7 @@ AI image generators have become powerful tools, enabling users to create complex
 ## How to run
 
 Frontend - npm run dev
+
 Backend - npm run dev
 
 
